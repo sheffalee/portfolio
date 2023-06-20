@@ -1,0 +1,33 @@
+.container{
+    padding-top: 20%;
+    background-color: black;
+    
+}
+.container .name{
+    color: white; 
+    /* text-shadow: 40px 40px 40x #000000; */
+    margin-left: 4%;
+    font-weight:bolder;
+    color: white;
+    font-size:70px;
+}
+/* h1{ */
+    /* padding-top: 1%; */
+    /* margin-top: 2%; */
+    /* padding-bottom:9%; */
+    /* margin-left: 2%;
+    font-weight:bolder;
+    color: white;
+    font-size:70px; */
+    
+    /* text-shadow: 100px; */
+/* } */
+h3{
+    color: white;
+    margin-left: 4%;
+    /* padding-top: 2%; */
+    padding-bottom: 4%;
+    font-style: italic;
+    font-weight: 400;
+    /* text-shadow:60px; */
+}

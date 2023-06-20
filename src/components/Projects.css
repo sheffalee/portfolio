@@ -1,0 +1,35 @@
+.projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .project-card {
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 4px;
+    margin: 16px;
+  }
+  
+  .project-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 8px;
+  }
+  
+  .project-card h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  
+  .project-card p {
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+  
+  .project-card a {
+    color: #007bff;
+    text-decoration: none;
+  }
