@@ -3,7 +3,7 @@ import './MainContent.css';
 const MainContent = () => {
   return (
     <div className='about-page'> 
-        <h2>About us</h2>
+        <h2>About Me</h2>
                <h4>
                 Hello! I am <span class="purple">Sheffalee</span>, currently a 4th year student in <span class="purple">Vellore Institute of Technology, Chennai.</span> From very early 
                 on in my life, I have been interested in technology and computers. Hence, 
