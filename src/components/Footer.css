@@ -1,4 +1,4 @@
-.footer{
+/* .footer{
     padding-top: 10px;
 }
 h3{
@@ -7,5 +7,9 @@ h3{
 
 }
 .red{
+    color: red;
+} */
+
+.footer svg{
     color: red;
 }
