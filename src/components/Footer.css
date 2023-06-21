@@ -2,18 +2,13 @@
 .footer{
     background-color: black;
     color: white;
-    /* padding-top: 3px; */
-    /* color: black; */
     padding-top: 1px;
     padding-bottom:1px;
 }
 .footer h4{
-    /* padding-top: 5px;
-    padding-bottom:5px; */
     margin-right: 0%;
     margin-left: 35%;
     font-size:large;
-    /* margin-top: 30; */
 }
 
 .footer .color{

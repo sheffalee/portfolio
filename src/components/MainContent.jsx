@@ -1,10 +1,12 @@
 import React from 'react';
 import './MainContent.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import {faUserGraduate} from '@fortawesome/fontawesome-free-solid';
 const MainContent = () => {
   return (
     <div className='about-page'> 
-        <h2>About Me</h2>
-               <h4>
+        <h2>About <FontAwesomeIcon icon={faUserGraduate} size="lg" />
+           </h2>    <h4>
                 Hello! I am <span class="purple">Sheffalee</span>, currently a 4th year student in <span class="purple">Vellore Institute of Technology, Chennai.</span> From very early 
                 on in my life, I have been interested in technology and computers. Hence, 
                 I am currently pursuing<span class="purple"> Masters in Software Engineering</span>.
