@@ -1,3 +1,32 @@
+/* 
+.skills-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .skill img {
+    width: 200px; /* Adjust image size as needed */
+    /* height: 200px;
+    border-radius: 50%;
+    object-fit: cover; */
+  /* } */
+  
+  /* .skill h2 {
+    margin-top: 10px;
+  }
+  
+  .skill p {
+    text-align: center;
+  } */
+   
 .image-container .image-1{
     padding-left: 60px;
     align-items: flex-start;
@@ -6,9 +35,7 @@
     border: 10px solid transparent;
 }
 img{
-    /* border: 10px solid transparent; */
-
-    border-radius: 10px;
+    border: 10px solid transparent;
     width: 150px;
 }
 .image-2 {
@@ -29,4 +56,4 @@ img{
     margin-left: 10px;
     width: 200px;
     height: 50px;
-}
+} 
