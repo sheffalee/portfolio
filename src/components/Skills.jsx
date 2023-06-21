@@ -12,7 +12,7 @@ const Skills = () => {
         <img className='image-5' src='./react.png'></img>
         <img className='image-6' src='./nodejs.png'></img>
         <img className='image-7' src='./mongodb.png'></img>
-        <img className='image-8' src='./express.pnj'></img>
+        <img className='image-8' src='./express.png'></img>
     </div>
   )
 }
