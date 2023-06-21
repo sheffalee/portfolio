@@ -7,6 +7,7 @@ const Skills = () => {
         <img className='image-1' src='./html.png'></img>
         <img className='image-2' src='./css.png'></img>
         <img className='image-3' src='./js.png'></img>
+        <img className='image-4' src='./react.png'></img>
     </div>
   )
 }
