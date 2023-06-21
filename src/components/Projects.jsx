@@ -43,7 +43,7 @@ const Projects = () => {
           <img src={project.imageUrl} alt={project.title} />
           <h3>{project.title}</h3>
           <p>{project.description}</p>
-          <a href={project.url}><img className='github' src='github.svg'/></a>
+          <a href={project.url}><img className="github" src='github.svg'/></a>
         </div>
       ))}
     </div>

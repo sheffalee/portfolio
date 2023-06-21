@@ -32,9 +32,14 @@
   .project-card a {
     color: #007bff;
     text-decoration: none;
-  }
 
-  .github{
+  }
+  .project-card .github{
     width: 2%;
     height: 5%;
   }
+/* 
+  .github{
+    width: 2%;
+    height: 5%;
+  } */
