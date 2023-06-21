@@ -44,7 +44,7 @@ const Projects = () => {
           <img src={project.imageUrl} alt={project.title} />
           <h3>{project.title}</h3>
           <p>{project.description}</p>
-          <a href={project.url}>GitHub</a>
+          <a href={project.url}><i class="fa-brands fa-github"></i></a>
         </div>
       ))}
     </div>
